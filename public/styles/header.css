@@ -1,0 +1,10 @@
+.profile {
+  display: flex;
+  height: 400px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: plum;
+  flex-direction: column;
+  background-image: url('../images/45-degree-fabric-light.png');
+}
