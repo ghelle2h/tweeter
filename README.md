@@ -11,7 +11,10 @@ This repository is the starter code for the project: Students will fork and clon
 3. Start the web server using the `npm run local` command. The app will be served at <http://localhost:8080/>.
 4. Go to <http://localhost:8080/> in your browser.
 
+## Final Project
+!["The homepage with clickable arrow to show form to tweet"](/public/images/tweeter-with-tweet-form.png)
+![Tablet mode](/public/images/tweeter-tablet-mode.png)
 ## Dependencies
-
+- Body-parser 
 - Express
 - Node 5.10.x or above
