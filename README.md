@@ -12,8 +12,8 @@ This repository is the starter code for the project: Students will fork and clon
 4. Go to <http://localhost:8080/> in your browser.
 
 ## Final Project
-!["The homepage with clickable arrow to show form to tweet"](/public/images/tweeter-with-tweet-form.png)
-![Tablet mode](/public/images/tweeter-tablet-mode.png)
+!["The homepage with clickable arrow to show form to tweet"](/docs/tweeter-with-tweet-form.png)
+!["Tablet mode"](/docs/tweeter-tablet-mode.png)
 ## Dependencies
 - Body-parser 
 - Express
