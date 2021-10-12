@@ -14,14 +14,7 @@
   
 }
 
-/* .formNewTweet:after {
-  content: "";
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  font-family: sans-serif;
-  font-size: medium;
-} */
+
 
 #submit {
   background-color: #4056A1;

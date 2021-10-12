@@ -1,8 +1,11 @@
 nav {
   color: #FFFFFF;
   background-color: #4056A1;
+  background-image: url('../images/45-degree-fabric-light.png');
   height: 120px;
   padding: 1.5em;
+  position: fixed;
+  top: 0%;
   width: 100%;
   display: flex;
   justify-content: space-between;

@@ -2,9 +2,18 @@
   display: flex;
   height: 400px;
   width: 100%;
-  justify-content: center;
+  margin: 20px;
+  max-width: 400px;
   align-items: center;
-  background-color: plum;
+  background-color: #4056A1;
   flex-direction: column;
   background-image: url('../images/45-degree-fabric-light.png');
+}
+
+@media only screen and (max-width: 900px) {
+  .profile {
+    max-width: 100%;
+    position: relative;
+    margin: 0;
+  }
 }
